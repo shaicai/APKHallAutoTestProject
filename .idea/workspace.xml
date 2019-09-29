@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e146996-9efa-484a-909a-a6f3354262eb" name="Default" comment="兼容最新apk" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tpl1559804215578</find>
+      <find>tpl1559807779303</find>
+      <find>tpl1559618975427</find>
+      <find>tpl1559789473963</find>
+      <find>tpl1559115623426</find>
+      <find>tpl1560149304489</find>
+      <find>connected</find>
+      <find>Login</find>
+      <find>from poco.drivers.android.uiautomation import AndroidUiautomationPoco</find>
+      <find>tip</find>
+      <find>self.data</find>
+      <find>&quot;cn.jj</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>login</replace>
+      <replace>\n</replace>
+      <replace>poco = AndroidUiautomationPoco(use_airtest_input=True, screenshot_each_action=False)</replace>
+      <replace>data</replace>
+      <replace>package+&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testforreport1/testforreport1.py" />
+        <option value="$PROJECT_DIR$/testforreport2/testforreport2.py" />
+        <option value="E:/RAM/test.py" />
+        <option value="$PROJECT_DIR$/case/xiaohaitunaddfriendtestcase/xiaohaitunaddfriendtestcase.py" />
+        <option value="$PROJECT_DIR$/case/logintestcase/logintestcase.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase02.py" />
+        <option value="$PROJECT_DIR$/testcase/runcase.py" />
+        <option value="$PROJECT_DIR$/Page/Hall.py" />
+        <option value="E:/RAM/test5.py" />
+        <option value="$PROJECT_DIR$/public/InstallAPK.py" />
+        <option value="$PROJECT_DIR$/testcase/LoginModular.py" />
+        <option value="$PROJECT_DIR$/testcase/Pageobject.py" />
+        <option value="$USER_HOME$/Desktop/sendmail.py" />
+        <option value="$PROJECT_DIR$/testcase/templates.py" />
+        <option value="$PROJECT_DIR$/testcase/ThirdPartyLocal.py" />
+        <option value="$PROJECT_DIR$/runcase01.py" />
+        <option value="D:/Python35/Lib/site-packages/poco/drivers/std/__init__.py" />
+        <option value="$PROJECT_DIR$/data/test.yaml.py" />
+        <option value="$PROJECT_DIR$/data/test.yml" />
+        <option value="$PROJECT_DIR$/data/test.yaml" />
+        <option value="$PROJECT_DIR$/data/changeyaml.py" />
+        <option value="E:/TestRam/TestRam/TestRam_Ctrl.py" />
+        <option value="$PROJECT_DIR$/runcasenew.py" />
+        <option value="D:/Python35/Lib/site-packages/airtest/core/android/recorder.py" />
+        <option value="$PROJECT_DIR$/runcaseforrecording.py" />
+        <option value="$PROJECT_DIR$/testcase/ThirdPartyLogin.py" />
+        <option value="$PROJECT_DIR$/testcase/XiaoHaiTun.py" />
+        <option value="$PROJECT_DIR$/testcase/AllGame.py" />
+        <option value="$PROJECT_DIR$/caselist.txt" />
+        <option value="$PROJECT_DIR$/public/sendemails.py" />
+        <option value="$PROJECT_DIR$/runcase.py" />
+        <option value="$PROJECT_DIR$/testcase/enterAPK.py" />
+        <option value="$PROJECT_DIR$/data/Login.yaml" />
+        <option value="$PROJECT_DIR$/public/PublicMethod.py" />
+        <option value="$PROJECT_DIR$/testcase/Halllocal.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1944" />
+    <option name="height" value="1104" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="APKHallAutoTestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APKHallAutoTestProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APKHallAutoTestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APKHallAutoTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APKHallAutoTestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APKHallAutoTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APKHallAutoTestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APKHallAutoTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APKHallAutoTestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APKHallAutoTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APKHallAutoTestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APKHallAutoTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.runcase">
+    <configuration name="runcase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Airtestworkspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runcase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Halllocal.Halllocal.testcase21" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Airtestworkspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Halllocal.Halllocal.testcase21&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Halllocal.Halllocal.testcase27" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Airtestworkspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Halllocal.Halllocal.testcase27&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for ThirdPartyLogin.ThirdPartyLogin.testcase05" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Airtestworkspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ThirdPartyLogin.ThirdPartyLogin.testcase05&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for XiaoHaiTun.XiaoHaiTun.testcase04" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Airtestworkspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;XiaoHaiTun.XiaoHaiTun.testcase04&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.runcase" />
+      <item itemvalue="Python tests.Unittests for Halllocal.Halllocal.testcase21" />
+      <item itemvalue="Python tests.Unittests for Halllocal.Halllocal.testcase27" />
+      <item itemvalue="Python tests.Unittests for ThirdPartyLogin.ThirdPartyLogin.testcase05" />
+      <item itemvalue="Python tests.Unittests for XiaoHaiTun.XiaoHaiTun.testcase04" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runcase" />
+        <item itemvalue="Python tests.Unittests for XiaoHaiTun.XiaoHaiTun.testcase04" />
+        <item itemvalue="Python tests.Unittests for ThirdPartyLogin.ThirdPartyLogin.testcase05" />
+        <item itemvalue="Python tests.Unittests for Halllocal.Halllocal.testcase27" />
+        <item itemvalue="Python tests.Unittests for Halllocal.Halllocal.testcase21" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e146996-9efa-484a-909a-a6f3354262eb" name="Default" comment="" />
+      <created>1559124524724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559124524724</updated>
+    </task>
+    <task id="LOCAL-00001" summary="增加超级会员及斗地主合集和大众麻将合集游戏&#10;删除多余的图片">
+      <created>1563507173968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563507173968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="增加超级会员及斗地主合集和大众麻将合集游戏&#10;删除多余的图片">
+      <created>1563507257346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563507257346</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改微信登录及会员界面和兑奖界面的改动">
+      <created>1563783257620</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563783257620</updated>
+    </task>
+    <task id="LOCAL-00004" summary="按规范优化代码">
+      <created>1563937491877</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563937491877</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加对长尾包的兼容">
+      <created>1564105813381</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564105813381</updated>
+    </task>
+    <task id="LOCAL-00006" summary="兼容最新apk">
+      <created>1567138291115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567138291115</updated>
+    </task>
+    <task id="LOCAL-00007" summary="兼容最新apk">
+      <created>1567147260736</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567147260736</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_Halllocal_Halllocal_testcase07 - 2019.09.02 at 14h 36m 39s.xml">
+      <configuration name="Unittests for Halllocal.Halllocal.testcase07" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Halllocal_Halllocal_testcase07 - 2019.09.02 at 14h 38m 14s.xml">
+      <configuration name="Unittests for Halllocal.Halllocal.testcase07" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Halllocal_Halllocal_testcase07 - 2019.09.02 at 14h 41m 14s.xml">
+      <configuration name="Unittests for Halllocal.Halllocal.testcase07" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Halllocal_Halllocal_testcase15 - 2019.09.02 at 15h 04m 51s.xml">
+      <configuration name="Unittests for Halllocal.Halllocal.testcase15" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Halllocal_Halllocal_testcase16 - 2019.09.02 at 15h 23m 04s.xml">
+      <configuration name="Unittests for Halllocal.Halllocal.testcase16" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Halllocal_Halllocal_testcase21 - 2019.09.02 at 15h 26m 08s.xml">
+      <configuration name="Unittests for Halllocal.Halllocal.testcase21" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Halllocal_Halllocal_testcase21 - 2019.09.02 at 15h 33m 56s.xml">
+      <configuration name="Unittests for Halllocal.Halllocal.testcase21" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Halllocal_Halllocal_testcase27 - 2019.09.02 at 16h 17m 33s.xml">
+      <configuration name="Unittests for Halllocal.Halllocal.testcase27" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ThirdPartyLogin_ThirdPartyLogin_testcase05 - 2019.09.02 at 16h 40m 55s.xml">
+      <configuration name="Unittests for ThirdPartyLogin.ThirdPartyLogin.testcase05" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ThirdPartyLogin_ThirdPartyLogin_testcase05 - 2019.09.02 at 16h 43m 19s.xml">
+      <configuration name="Unittests for ThirdPartyLogin.ThirdPartyLogin.testcase05" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1555" height="883" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18499012" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.907117" weight="0.32912844" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4831081" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24426605" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.09288299" side_tool="true" weight="0.7466216" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.2894144" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18335344" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.907117" weight="0.48623854" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32995495" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.09288299" side_tool="true" weight="0.7466216" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加超级会员及斗地主合集和大众麻将合集游戏&#10;删除多余的图片" />
+    <MESSAGE value="修改微信登录及会员界面和兑奖界面的改动" />
+    <MESSAGE value="按规范优化代码" />
+    <MESSAGE value="增加对长尾包的兼容" />
+    <MESSAGE value="兼容最新apk" />
+    <option name="LAST_COMMIT_MESSAGE" value="兼容最新apk" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/RAM/test.py" />
+    <entry file="file://D:/Python35/Lib/site-packages/poco/__init__.py" />
+    <entry file="file://D:/Python35/Lib/site-packages/poco/freezeui/utils.py" />
+    <entry file="file://D:/Python35/Lib/site-packages/poco/freezeui/hierarchy.py" />
+    <entry file="file://D:/Python35/Lib/site-packages/poco/proxy.py" />
+    <entry file="file://$PROJECT_DIR$/case/logintestcase/logintestcase.py" />
+    <entry file="file://$PROJECT_DIR$/case/xiaohaitunaddfriendtestcase/xiaohaitunaddfriendtestcase.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/runcase.py" />
+    <entry file="file://$PROJECT_DIR$/Page/Hall.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/RAM/test5.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/Pageobject.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/LoginModular.py" />
+    <entry file="file://$USER_HOME$/Desktop/sendmail.py" />
+    <entry file="file://D:/Python35/Lib/email/mime/base.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/943167800/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/runcase01.py" />
+    <entry file="file://D:/Python35/Lib/site-packages/poco/drivers/android/uiautomation.py" />
+    <entry file="file://$PROJECT_DIR$/data/test.yaml.py" />
+    <entry file="file://$PROJECT_DIR$/data/test.yml" />
+    <entry file="file://$PROJECT_DIR$/dataLogin.yaml" />
+    <entry file="file://E:/TestRam/TestRam/TestRam_Ctrl.py" />
+    <entry file="file://D:/Python35/Lib/site-packages/poco/drivers/std/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/data/changeyaml.py" />
+    <entry file="file://$PROJECT_DIR$/data/test.yaml" />
+    <entry file="file://D:/Python35/Lib/site-packages/airtest/core/android/recorder.py" />
+    <entry file="file://D:/Python35/Lib/site-packages/airtest/core/android/android.py" />
+    <entry file="file://$PROJECT_DIR$/runcasenew.py" />
+    <entry file="file://$PROJECT_DIR$/runcaseforrecording.py" />
+    <entry file="file://D:/Python35/Lib/site-packages/airtest/core/device.py" />
+    <entry file="file://D:/Python35/Lib/site-packages/airtest/core/cv.py" />
+    <entry file="file://D:/Python35/Lib/unittest/main.py" />
+    <entry file="file://D:/Python35/Lib/unittest/runner.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/unittestpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="303" selection-start-line="303" selection-end-line="303" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/unittest/suite.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/templates.py" />
+    <entry file="file://D:/Python35/Lib/site-packages/airtest/core/api.py" />
+    <entry file="file://$PROJECT_DIR$/report/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="581" column="11" selection-start-line="581" selection-start-column="11" selection-end-line="581" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/unittest/case.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/XiaoHaiTun.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/AllGame.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/ThirdPartyLogin.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/enterAPK.py" />
+    <entry file="file://$PROJECT_DIR$/public/app/config.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APKHallAutoTestProject.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caselist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/sendemails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/PublicMethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="52" column="22" lean-forward="true" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+          <folding>
+            <element signature="e#46#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Login.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/Halllocal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+            <element signature="e#1062#1298#0" />
+            <element signature="e#46155#46186#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

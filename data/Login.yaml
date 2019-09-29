@@ -1,0 +1,40 @@
+login:
+  changeaccount:
+    username: "xxxxxxxxx"
+    password: "xxxxxxxxx"
+  getaccount:
+    username: "xxxxxxxxx"
+    password: "xxxxxxxxx"
+  haitunaccount:
+    username: "jxxxxxxxxx"
+    password: "xxxxxxxxx"
+  QQaccount:
+    username: "xxxxxxxxx"
+    password: "xxxxxxxxx"
+  WeiXinaccount:
+    username: "xxxxxxxxx"
+    password: "xxxxxxxxx"
+  Alipay:
+    username: "xxxxxxxxx"
+    password: "xxxxxxxxx"
+  RealNameaccount:
+    username: "xxxxxxxxx"
+    password: "xxxxxxxxx"
+  registerphonenumber:
+    phonenumber: "xxxxxxxxx"
+  about:
+    version: "xxxxxxxxx"
+XiaoHaiTun:
+  # 此用户ID设置为任何都可以添加
+  userID: "604898312"
+  # 此groupID设置为任何人都可以加入
+  groupID: "4765935"
+Setting:
+  sendemail:
+    username: 'xxxxxxxxx'
+    password: 'xxxxxxxxx'
+    sender: 'xxxxxxxxx'
+    receivers: ['xxxxxxxxx']
+    test: ['xxxxxxxxx']
+  apk_package:
+    packagename: 'xxxxxxxxx'
